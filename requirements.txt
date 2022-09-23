@@ -10,6 +10,6 @@ numpy
 dm_control
 numba
 pyquaternion
-numpy-quaternion=2020.11.2.17.0.49
+numpy-quaternion==2020.11.2.17.0.49
 click
 termcolor
