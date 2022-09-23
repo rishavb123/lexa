@@ -1,4 +1,4 @@
-name: lexa
+name: lexa_env
 channels:
   - anaconda
   - conda-forge
