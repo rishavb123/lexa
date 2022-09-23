@@ -5,7 +5,8 @@ channels:
   - defaults
 dependencies:
   - cudatoolkit=11.0.221=h6bb024c_0
-  - python=3.7777777ibgcc_mutex=0.1=conda_forge
+  - python=3.7
+  - _libgcc_mutex=0.1=conda_forge
   - _openmp_mutex=4.5=1_gnu
   - bzip2=1.0.8=h7f98852_4
   - ca-certificates=2020.12.5=ha878542_0
